@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 520 520"
+   version="1.1"
+   id="svg827"
+   sodipodi:docname="orcid.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   width="520"
+   height="520"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs831" />
+  <sodipodi:namedview
+     id="namedview829"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.92241192"
+     inkscape:cx="-91.065605"
+     inkscape:cy="359.38391"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg827"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true" />
+  <!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+  <path
+     d="M 298.75,192.19 H 252.83 V 346 h 47.47 c 67.62,0 83.12,-51.34 83.12,-76.91 0,-41.64 -26.54,-76.9 -84.67,-76.9 z M 260,11.999999 C 123,11.999999 12,123 12,260 12,397 123,508 260,508 397,508 508,397 508,260 508,123 397,11.999999 260,11.999999 Z M 179.21,372.76 h -29.84 v -207.5 h 29.84 z M 164.29,141.62 a 19.57,19.57 0 1 1 19.57,-19.57 19.64,19.64 0 0 1 -19.57,19.57 z M 304,373 H 223 V 165.26 h 80.6 c 76.73,0 110.44,54.83 110.44,103.85 C 414,322.39 372.38,373 304,373 Z"
+     id="path825"
+     style="fill:#4e52a3;fill-opacity:1" />
+  <path
+     id="path2099"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:9.44882"
+     d="m 171.7793,103.96875 a 19.57,19.57 0 1 0 -7.49024,37.65039 19.64,19.64 0 0 0 19.57032,-19.56836 19.57,19.57 0 0 0 -12.08008,-18.08203 z m -22.41016,61.29102 v 207.5 h 29.8418 v -207.5 z m 73.63086,0 V 373 h 81 c 68.38,0 109.99906,-50.61063 110.03906,-103.89062 0,-49.02001 -33.70945,-103.84961 -110.43945,-103.84961 z m 29.83008,26.92968 H 298.75 c 58.13,0 84.66992,35.26039 84.66992,76.90039 0,25.57 -15.49914,76.91016 -83.11914,76.91016 h -47.4707 z" />
+</svg>
