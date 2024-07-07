@@ -1,4 +1,8 @@
 <div align=center>
+  <a href="https://www.linkedin.com/in/sebastian-ehlert-799b86317/">
+    <img src="./img/linkedin.svg" alt="LinkedIn" width="40">
+  </a>
+  &nbsp
   <a href="https://orcid.org/0000-0001-7809-771X">
     <img src="./img/orcid.svg" alt="Google Scholar" width="40">
   </a>
